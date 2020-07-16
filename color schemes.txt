@@ -1,7 +1,5 @@
-small text: https://userway.org/contrast/25447D/DAECF5
-small text-highlight: https://userway.org/contrast/213a68/B4D5E5
-small text-dark: https://userway.org/contrast/DAECF5/25447D
 
-Large Text https://userway.org/contrast/44679F/DAECF5
-Large Text-highlight: https://userway.org/contrast/25447D/B4D5E5
-Large Text-dark: https://userway.org/contrast/B4D5E5/25447D
+normal-text: https://userway.org/contrast/00528d/E6F0FA
+normal-dark: https://userway.org/contrast/00528d/E6F0FA
+large-text https://userway.org/contrast/005d9f/B9D7F0
+large-text-highlight: https://userway.org/contrast/ffffff/0069B4
